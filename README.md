@@ -1,4 +1,3 @@
-# a221498
 # Hi there 👋, I'm KHYRA ASILA BINTI NOR AZMAN
 
 ### 🚀 About Me
