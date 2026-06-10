@@ -60,7 +60,7 @@ Short description of the project and technologies used.
 
 * LinkedIn: https://linkedin.com/in/yourprofile
 * Portfolio: https://yourwebsite.com
-* Email: [your.email@example.com](mailto:khyraasila01@gmail.com)
+* Email: [khyraasila01@gmail.com](mailto:khyraasila01@gmail.com)
 
 ### ⚡ Fun Fact
 
