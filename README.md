@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-* 💻 Passionate Software Developer
+* 💻 Passionate Computer Sceince
 * 🌱 Currently learning and building modern applications
 * 🔭 Working on exciting open-source and personal projects
 * 🎯 Focused on writing clean, scalable, and maintainable code
@@ -13,9 +13,8 @@
 **Languages**
 
 * JavaScript
-* TypeScript
-* Python
 * Java
+* C++
 
 **Frontend**
 
@@ -61,8 +60,8 @@ Short description of the project and technologies used.
 
 * LinkedIn: https://linkedin.com/in/yourprofile
 * Portfolio: https://yourwebsite.com
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: [your.email@example.com](mailto:khyraasila01@gmail.com)
 
 ### ⚡ Fun Fact
 
-I enjoy building things that solve real-world problems and continuously exploring new technologies.
+I enjoy creating games and currently working on a game project! wish me the best
